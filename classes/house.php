@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/classes/product.php';
 
 class House {
     public $material;

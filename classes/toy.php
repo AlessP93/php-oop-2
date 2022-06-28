@@ -1,6 +1,7 @@
 <?php
+require_once __DIR__ . '/classes/product.php';
 
-class Toy {
+class Toy extends Product{
     public $type;
     public $size;
 
