@@ -1,7 +1,6 @@
 <?php
-require_once __DIR__ . '/classes/creditCrad.php';
 
-class User extends CreditCard{
+class User {
     public $name;
     public $surname;
     public $email;

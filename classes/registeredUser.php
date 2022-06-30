@@ -1,7 +1,7 @@
 <?php
-require_once __DIR__ . '/classes/creditCrad.php';
 
-class User extends CreditCard{
+
+class registeredUser extends user{
     public $discount = 20;
 
 

@@ -4,6 +4,8 @@
     require_once __DIR__ . '/classes/house.php';
     require_once __DIR__ . '/classes/toy.php';
     require_once __DIR__ . '/classes/creditCard.php';
+    require_once __DIR__ . '/classes/user.php';
+    require_once __DIR__ . '/classes/registeredUser.php';
 ?>
 
 <!DOCTYPE html>

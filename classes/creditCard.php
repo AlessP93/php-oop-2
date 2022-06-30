@@ -1,6 +1,5 @@
 <?php
 
-
 class CreditCard {
     public $number;
     public $expire_date;
